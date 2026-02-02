@@ -1,0 +1,26 @@
+.html{scroll-behavior: smooth;}
+
+.body{background: #252525;
+font-family: "baloo tamaa 2", cursive;}
+
+.m-heading{font-family: "roboto slab", serif;}
+
+.text-white{color: blue;}
+
+.main-container{height: 100vh;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+background-image: url('coding2.jpg');
+background-attachment: fixed;
+background-size: cover;}
+
+.main-row{display: flex;
+justify-content: center;
+align-items: center;}
+
+.main-row h1{font-size: 5rem;}
+
+.main-row img{width: auto;
+height: 100vh;}
